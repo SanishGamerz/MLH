@@ -1,0 +1,6 @@
+{
+  "name": "EstateEase",
+  "description": "Premium modern real estate platform for home buyers, sellers, and agents with intelligent AI property advisor and Nepal digital payments integration (eSewa, Khalti, IME Pay, ConnectIPS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
